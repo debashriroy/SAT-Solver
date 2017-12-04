@@ -1,0 +1,10 @@
+c FILE: sample-debo.cnf
+c
+c
+c p cnf 5 5
+p cnf 5 5
+2 3 1 4 5 0
+1 2 -3 0
+1 -2 0
+-1 4 0
+-1 0

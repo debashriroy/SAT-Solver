@@ -1,0 +1,9 @@
+
+ Benchmark File Name:(C:\Users\debas\Dropbox\UCF\Study_Materials_Fall_2015\Algorithm-COT 5405\SAT Solver Project\CNF_Inputs\sample-debo.cnf)
+ Number of Variables:5
+ Number of Clauses:5
+
+The CNF Input is SATISFIABLE
+Printing Variable Assignment Map(T:'TRUE'; F:'FALSE'; N:'NOT ASSIGNED'):
+V2:F; V3:F; V1:F; V4:T; V5:F; 
+ The required time: 0 seconds
