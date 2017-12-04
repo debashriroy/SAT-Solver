@@ -5,6 +5,7 @@ Efficient implementation of Satisfiability solver has gained more and more relev
 
 Instructions to run:
 1. Export or clone the repo in the eclipse distribution.
-2. One UI would appear. Input the following file: i) Enter the benchmark file (*.cnf). 
-3. One OUTPUT file will be generated with same filename and *.out alias. 
-4. The OUTPUT file will contain: i) whether the cnf is satisfiable or not ii) One Truth assignment, in case it is satisfiable.
+2. Run "SATSolverMain.java"
+3. One UI would appear. Input the following file: i) Enter the benchmark file (*.cnf). 
+4. One OUTPUT file will be generated with same filename and *.out alias. 
+5. The OUTPUT file will contain: i) whether the cnf is satisfiable or not ii) One Truth assignment, in case it is satisfiable.
